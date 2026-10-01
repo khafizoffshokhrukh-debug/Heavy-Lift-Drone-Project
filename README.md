@@ -58,12 +58,6 @@ I worked on:
 
 <img width="1010" height="975" alt="Снимок экрана 2026-09-29 120909" src="https://github.com/user-attachments/assets/3a691ebd-10c1-463b-8ca5-56505d07fe35" />
 
-![Frame Design](CAD/frame-design.png)
-
-![Assembly](CAD/assembly.png)
-
-![Payload Mount](CAD/payload-mount.png)
-
 ---
 
 # 🚁 Drone
@@ -72,19 +66,18 @@ The drone was designed and assembled with a focus on **payload capability, stabi
 
 ### Final Drone
 
-![Final Drone](Drone/final-drone.jpg)
+<img width="960" height="1280" alt="photo_2026-09-29_12-02-39" src="https://github.com/user-attachments/assets/1d3fdc98-fbba-44c0-956c-eba0afad1a16" />
 
-### Front View
 
-![Drone Front](Drone/drone-front.jpg)
+### Hook
 
-### Side View
+<img width="644" height="974" alt="Снимок экрана 2026-09-29 121018" src="https://github.com/user-attachments/assets/c8872404-af9b-41e1-8c59-67d1d3d80146" />
 
-![Drone Side](Drone/drone-side.jpg)
 
-### Top View
+### Motor protector
 
-![Drone Top](Drone/drone-top.jpg)
+
+<img width="373" height="373" alt="Снимок экрана 2026-09-29 121036" src="https://github.com/user-attachments/assets/2529b7e6-2b96-403f-b591-df171448243d" />
 
 ---
 
