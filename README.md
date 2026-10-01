@@ -199,63 +199,6 @@ The drone was developed through several stages:
 🚁 Final Configuration
 ```
 
----
-
-## 01 — Planning
-
-The first stage was defining the drone configuration and considering the requirements for carrying an additional payload.
-
-![Planning](Development/01-planning.jpg)
-
----
-
-## 02 — CAD Design
-
-The drone structure and required mechanical components were designed using CAD.
-
-![CAD](Development/02-cad.jpg)
-
----
-
-## 03 — Frame
-
-The physical frame and mechanical components were prepared according to the design.
-
-![Frame](Development/03-frame.jpg)
-
----
-
-## 04 — Electronics
-
-The flight controller, ESCs, motors, battery and radio receiver were integrated into the drone.
-
-![Electronics](Development/04-electronics.jpg)
-
----
-
-## 05 — Assembly
-
-The main mechanical and electronic components were assembled into the drone.
-
-![Assembly](Development/05-assembly.jpg)
-
----
-
-## 06 — Testing
-
-The drone was tested through multiple practice sessions to evaluate its flight behavior and system reliability.
-
-![Testing](Development/06-testing.jpg)
-
----
-
-## 07 — Final Drone
-
-After assembly and testing, the final drone configuration was prepared.
-
-![Final Drone](Development/07-final-drone.jpg)
-
----
 
 # 🧪 Testing & Practice
 
@@ -272,19 +215,6 @@ Testing focused on:
 * Radio-control reliability
 * Overall system performance
 
-### Practice Session 01
-
-![Practice 01](Testing/practice-01.jpg)
-
-### Practice Session 02
-
-![Practice 02](Testing/practice-02.jpg)
-
-### Practice Session 03
-
-![Practice 03](Testing/practice-03.jpg)
-
----
 
 # 🎥 Flight Practice Videos
 
@@ -298,47 +228,12 @@ The videos show:
 * Payload-related testing
 * Real development progress
 
-### Practice Flight 01
+### Practice Flight
 
-[▶️ Watch on YouTube](Videos/videos.md)
+[▶️ Watch on YouTube](https://www.youtube.com/shorts/LL4HdbDAKwY)
 
-### Practice Flight 02
 
-[▶️ Watch on YouTube](Videos/videos.md)
 
-### Practice Flight 03
-
-[▶️ Watch on YouTube](Videos/videos.md)
-
-### Testing Compilation
-
-[▶️ Watch on YouTube](Videos/videos.md)
-
----
-
-# 📸 Project Gallery
-
-## Final Drone
-
-![Final Drone](Drone/final-drone.jpg)
-
-## CAD Design
-
-![CAD](CAD/cad-overview.png)
-
-## Electronics
-
-![Electronics](Electronics/electronics.jpg)
-
-## Payload System
-
-![Payload](Drone/payload-system.jpg)
-
-## Flight Practice
-
-![Practice](Testing/practice-01.jpg)
-
----
 
 # 🧠 Skills Developed
 
