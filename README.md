@@ -96,7 +96,8 @@ The payload system was designed with consideration for:
 
 ### Payload Mount
 
-![Payload System](Drone/payload-system.jpg)
+<img width="699" height="691" alt="Снимок экрана 2026-10-01 112315" src="https://github.com/user-attachments/assets/e8531e41-fede-4791-acd7-5e9e101fef8d" />
+
 
 ---
 
@@ -106,13 +107,13 @@ The drone was built using a combination of flight-control, propulsion, power and
 
 | Component            | Model                    | Purpose                  |
 | -------------------- | ------------------------ | ------------------------ |
-| 📡 Radio Transmitter | **RadioMaster T8L ELRS** | Pilot control            |
+| 📡 Radio Transmitter | **RadioMaster Pocket**   | Pilot control            |
 | 📶 ELRS Receiver     | **RadioMaster RP2 ELRS** | Receives control signals |
-| 🚁 Flight Controller | `MODEL`                  | Flight control           |
-| ⚡ ESC                | `MODEL`                  | Motor control            |
-| ⚙️ Motors            | `MODEL`                  | Thrust generation        |
-| 🌀 Propellers        | `MODEL`                  | Generate thrust          |
-| 🔋 Battery           | `MODEL`                  | Power supply             |
+| 🚁 Flight Controller | F405 controller          | Flight control           |
+| ⚡ ESC               | 4in1 esc                 | Motor control            |
+| ⚙️ Motors            | TSIDO 1300KV             | Thrust generation        |
+| 🌀 Propellers        | HQ PROP 7x3.5x3          | Generate thrust          |
+| 🔋 Battery           | OVONIC 1480mah           | Power supply             |
 | 📦 Payload System    | **Custom**               | Payload attachment       |
 
 > Additional component details and photos are available in the `Components/` folder.
@@ -125,11 +126,12 @@ The drone uses an **ExpressLRS (ELRS)** radio-control system.
 
 ### Transmitter
 
-**RadioMaster T8L ELRS**
+**RadioMaster Pocket ELRS**
 
 Used by the pilot to control the drone during flight and practice sessions.
 
-![RadioMaster T8L ELRS](Components/radiomaster-t8l-elrs.jpg)
+<img width="720" height="720" alt="POCKET-1000x1000-Charcoal-1_720x" src="https://github.com/user-attachments/assets/2a1b4343-88c2-4c2e-8647-1cb12379e292" />
+
 
 ### Receiver
 
@@ -137,7 +139,8 @@ Used by the pilot to control the drone during flight and practice sessions.
 
 Installed on the drone to receive control commands from the transmitter.
 
-![RadioMaster RP2 ELRS](Components/radiomaster-rp2-elrs.jpg)
+<img width="720" height="720" alt="RP1-V240123_720x" src="https://github.com/user-attachments/assets/4206383f-c6b8-4b86-a7e3-7944aa66b1a8" />
+
 
 ### Control Link
 
@@ -167,23 +170,6 @@ This radio-control system was used during our flight practice and testing.
 
 ---
 
-# ⚡ Electronics
-
-The electronics system integrates the flight controller, ESCs, motors, battery and radio receiver.
-
-### Electronics
-
-![Electronics](Electronics/electronics.jpg)
-
-### Wiring
-
-![Wiring](Electronics/wiring.jpg)
-
-### Power System
-
-![Power System](Electronics/power-system.jpg)
-
----
 
 # 🔧 Development Process
 
